@@ -1,0 +1,2 @@
+# FlaskSampleServer
+Flask + MongoDB + Auth
